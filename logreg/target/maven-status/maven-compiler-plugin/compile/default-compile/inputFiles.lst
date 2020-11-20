@@ -1,0 +1,14 @@
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/config/WebConfig.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/service/RegistrationService.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/repository/LoginRepository.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/controller/AuthController.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/controller/RegistrationController.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/service/RegistrationServiceImpl.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/model/Register.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/service/LoginService.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/service/LoginServiceImpl.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/config/MyWebAppInitializer.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/controller/DashboardController.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/controller/HomeController.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/model/Login.java
+/home/ubuntu/Documents/workspace-spring-tool-suite-4-4.8.1.RELEASE/logreg/src/main/java/com/tcs/logreg/config/RootConfig.java
